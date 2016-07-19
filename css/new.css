@@ -1,0 +1,27 @@
+.col-lg-4{
+	border: 2px solid black;
+	
+}
+
+.jumbotron{
+	border: 2px solid black;
+}
+
+.h4{
+	color: blue;
+	font-weight:bold;
+	
+}
+.aBox{
+	border: 2px solid black;
+	
+}
+.blg{
+	background-color: #ddd;
+	border: 2px solid black;
+}
+.resp{
+	background-color: #CAFFD8;
+	border: 2px solid black;	
+	
+}

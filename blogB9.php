@@ -143,7 +143,7 @@ $results->fetchColumn(1);
       <div class="jumbotron">
         <h1>Blogging stuff!</h1>
 		<h2><?php echo "Welcome to the site  " . $username; ?> </h2>
-		<p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet.</p>
+		<p class="lead">This blog will allow you to make posts and respond to posts already listed..</p>
         <p><a class="btn btn-lg btn-success" href="#" role="button">Get started today</a></p>
 		<a href="signIn.php">Create and Account</a>
 		<a href="login.php">Login</a>
@@ -152,9 +152,9 @@ $results->fetchColumn(1);
       <!-- Example row of columns -->
       <div class="row">
         <div class="col-lg-8">
-          <h2>Safari bug warning!</h2>
-          <p class="text-danger">As of v8.0, Safari exhibits a bug in which resizing your browser horizontally causes rendering errors in the justified nav that are cleared upon refreshing.</p>
-          <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+          <h2>Get Ready!</h2>
+          <p class="text-danger">Make sure you first login in or sign up before trying to post or respond to information.</p>
+          <p>DGood luck and thank you for contributing. </p>
           <p><a class="btn btn-primary" href="#" role="button">View details &raquo;</a></p>
 		    
 	
